@@ -32,7 +32,7 @@
 <br>
 
 <p align="center">
-  <img alt="Frontend" src=".github/devradar.png" width="100%">
+  <img alt="Frontend" src="assets/Captura de Tela 2020-03-20 às 13.50.31.png" width="100%">
 </p>
 
 ## :rocket: Tecnologias
