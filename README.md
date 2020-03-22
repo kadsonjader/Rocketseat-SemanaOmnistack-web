@@ -8,7 +8,7 @@
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Rocketseat/semana-omnistack-10">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Rocketseat/semana-omnistack-10">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/kadsonjader/Rocketseat-SemanaOmnistack-web">
   
   <a href="https://github.com/Rocketseat/semana-omnistack-10/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/kadsonjader/Rocketseat-SemanaOmnistack-web">
